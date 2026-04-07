@@ -1,0 +1,8 @@
+requests
+pydantic
+fastapi
+uvicorn
+pytest
+fastapi
+uvicorn
+pydantic

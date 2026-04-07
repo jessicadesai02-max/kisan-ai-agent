@@ -1,0 +1,10 @@
+name: indian-farm-env
+version: 1.0
+
+environment:
+  entrypoint: env.farm_env:FarmEnv
+
+tasks:
+  - easy
+  - medium
+  - hard
