@@ -4,6 +4,11 @@ version: 1.0
 environment:
   entrypoint: env.farm_env:FarmEnv
 
+spec:
+  observation: FarmState
+  action: FarmAction
+  reward: float
+
 tasks:
   - easy
   - medium
